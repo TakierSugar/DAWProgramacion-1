@@ -1,4 +1,4 @@
-import java.util.Arrays;
+//import java.util.Arrays;
 
 /**
  * Escribid un programa Java para eliminar de un array un elemento específico
