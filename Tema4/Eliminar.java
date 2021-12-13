@@ -9,7 +9,7 @@ import java.util.Arrays;
  * @author victor
  *
  */
-public class Eliminar {
+/*public class Eliminar {
 	public static void eliminarElemento(int[] numeros, int removeIndex) {
 		// Hacemos una copia del elemento a eliminar antes de empezar a mover
 		int numeroAMover = numeros[removeIndex];
@@ -49,4 +49,4 @@ public class Eliminar {
 
 	}
 
-}
+}*/
